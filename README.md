@@ -10,12 +10,9 @@
 - 👩‍💻  5 years of work.
 <br/>
 <br/>
-
 You are my ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg)th visitor
-
 <br/>
 <br/>
-
 <!--
 **sy-vendor/sy-vendor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
