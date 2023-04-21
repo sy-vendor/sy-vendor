@@ -16,6 +16,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg)t
 <br/>
 <br/>
 
+- Personal website and blog: [SY-VENDOR_BLOG](https://sy-vendor.github.io/)
+
+<br/>
+<br/>
+
 #### SY  [leetcode](https://leetcode.cn/u/13y3krwKNR/)  
 
 * Problems solved: 629
