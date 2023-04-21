@@ -8,7 +8,7 @@
 - 📍  深圳(SZ).
 - 👨‍🎓  HUT.
 - 👩‍💻  5 years of work.
-- 💬  Personal website and blog: [SY-VENDOR_BLOG](https://sy-vendor.github.io/)
+- 🌱  Personal website and blog: [SY-VENDOR_BLOG](https://sy-vendor.github.io/)
 <br/>
 <br/>
 
