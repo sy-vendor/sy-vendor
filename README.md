@@ -19,8 +19,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg)t
 
 #### SY  [leetcode](https://leetcode.cn/u/13y3krwKNR/)  
 
-* Problems solved: 629
-* Easy: 347
+* Problems solved: 630
+* Easy: 348
 * Medium: 258
 * Hard: 24
 
