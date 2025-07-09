@@ -15,12 +15,16 @@
   </a>
 </div>
 
+<div align="center">
+
 | 难度 | 已解决 | 进度 |
 |------|--------|------|
 | 🟢 Easy | **351** | ![Easy Progress](https://img.shields.io/badge/351%2F800-44%25-green) |
 | 🟡 Medium | **258** | ![Medium Progress](https://img.shields.io/badge/258%2F1600-16%25-yellow) |
 | 🔴 Hard | **24** | ![Hard Progress](https://img.shields.io/badge/24%2F600-4%25-red) |
 | **总计** | **634** | ![Total Progress](https://img.shields.io/badge/634%2F3000-21%25-blue) |
+
+</div>
 
 <div align="center">
   <a href="https://sy-vendor.github.io/">
