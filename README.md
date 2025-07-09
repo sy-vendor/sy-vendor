@@ -1,8 +1,7 @@
 # 👋 你好，我是 SY
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hqwlkj/count.svg" alt="访问者计数" />
-  <p><em>你是第 <strong>![Visitor Count](https://profile-counter.glitch.me/hqwlkj/count.svg)</strong> 位访问者</em></p>
+  <p><em>你是第 <img src="https://profile-counter.glitch.me/hqwlkj/count.svg" alt="访客计数" style="display:inline; width:80px;"/> 位访问者</em></p>
 </div>
 
 ## 🚀 关于我
@@ -19,13 +18,11 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Erlang](https://img.shields.io/badge/-Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### 🎨 前端技术
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### 🛠️ 开发工具
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -47,13 +44,6 @@
 | 🔴 Hard | **24** | ![Hard Progress](https://img.shields.io/badge/24%2F600-4%25-red) |
 | **总计** | **634** | ![Total Progress](https://img.shields.io/badge/634%2F3000-21%25-blue) |
 
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sy-vendor&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sy-vendor&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🌟 最近活跃
 
 <div align="center">
@@ -66,7 +56,7 @@
   <a href="https://sy-vendor.github.io/">
     <img src="https://img.shields.io/badge/个人博客-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white" alt="个人博客" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sytourist@gmail.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" />
   </a>
 </div>
