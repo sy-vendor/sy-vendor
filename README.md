@@ -1,7 +1,7 @@
 # 👋 你好，我是 SY
 
 <div align="center">
-  <p><em>你是第 <img src="https://profile-counter.glitch.me/hqwlkj/count.svg" alt="访客计数" style="display:inline; width:80px;"/> 位访问者</em></p>
+  <p><em>你是第 <img src="https://count.getloli.com/get/@sy-vendor?theme=moebooru" alt="访客计数" style="display:inline; width:80px;"/> 位访问者</em></p>
 </div>
 
 ## 🚀 关于我
