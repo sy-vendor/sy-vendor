@@ -2,28 +2,18 @@
 
 ## 🚀 关于我
 
-- 🍒 **95后** | 热爱软件开发的程序员
-- 📍 **深圳** | 技术氛围浓厚的城市
-- 🎓 **湖南工业大学** | 计算机相关专业
-- 💼 **8年工作经验** | 全栈开发工程师
-- 🌐 **个人博客**: [SY-VENDOR_BLOG](https://sy-vendor.github.io/)
+- 🥚 95后，传说中的“键盘艺术家”
+- 🏠 深圳码农，白天写代码，晚上写梦想
+- 🎓 毕业于湖南工业大学，专业：如何优雅地拖延
+- 🧑‍💻 8年经验，bug见我都害怕
+- 🥤 咖啡续命，奶茶加持，代码不出bug全靠玄学
+- 🐟 擅长摸鱼，偶尔也会认真敲代码
+- 🌐 个人博客：[SY-VENDOR_BLOG](https://sy-vendor.github.io/)
+- 🏆 座右铭：代码可以不写，但外卖必须准时
 
 ## 💻 技术栈
 
-### 🚀 后端技术
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Erlang](https://img.shields.io/badge/-Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### 🎨 前端技术
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🛠️ 开发工具
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Erlang](https://img.shields.io/badge/-Erlang-A90533?style=flat-square&logo=erlang&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🏆 LeetCode 刷题成就
 
@@ -39,12 +29,6 @@
 | 🟡 Medium | **258** | ![Medium Progress](https://img.shields.io/badge/258%2F1600-16%25-yellow) |
 | 🔴 Hard | **24** | ![Hard Progress](https://img.shields.io/badge/24%2F600-4%25-red) |
 | **总计** | **634** | ![Total Progress](https://img.shields.io/badge/634%2F3000-21%25-blue) |
-
-## 🌟 最近活跃
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sy-vendor&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
 
 ## 📫 联系我
 
